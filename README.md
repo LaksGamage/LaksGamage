@@ -1,3 +1,7 @@
+<img width="498" height="330" alt="shrine" src="https://github.com/user-attachments/assets/ccae2cc5-9c92-4f3b-ae0a-2a43dc3375de" />
+
+
+
 <h3 data-importer="text" align="center">Hi 👋! My name is Lakshan. <br> I'm a .🎓 Information Systems Undergraduate from <br>Sabaragamuwa University of Sri Lanka.</h3>
 
 ###
