@@ -12,11 +12,30 @@
 </p>
 
 ## 📌 About Me
-- 🚀 Information Systems Undergraduate building web applications and digital solutions.
-- 💻 Web Developer passionate about creating clean and user-friendly applications.
-- 🎓 Information Systems Student | Web Developer | Creative Designer.
-- 🌱 Learning, building, and growing through software development.
-- 🔥 Turning ideas into web applications and digital experiences.
+<table>
+<tr>
+
+<td width="80%">
+
+🚀 Information Systems Undergraduate building web applications and digital solutions.
+
+💻 Web Developer passionate about creating clean and user-friendly applications.
+
+🎓 Information Systems Student | Web Developer | Creative Designer.
+
+🌱 Learning, building, and growing through software development.
+
+🔥 Turning ideas into web applications and digital experiences.
+
+</td>
+
+<td width="20%">
+
+<img align="right" width="232" height="246" alt="pixel-samurai" src="https://github.com/user-attachments/assets/f76ded90-8a28-4b9a-b51b-9747c53d4363" />
+
+</td>
+</tr>
+</table>
 
 
 ## 📊 GitHub Stats & Trophies
@@ -35,6 +54,8 @@
 
 
 ## 🛠️ Languages & Tools
+
+
 
 <h3 align="center">Programming Languages</h3>
 <p align="center">
@@ -72,6 +93,10 @@
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="63" height="35" alt="linkedin logo"  />
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="63" height="35" alt="facebook logo"  />
 </div>
+
+
+
+
 
 <div>
   <div align="center">
