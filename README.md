@@ -1,6 +1,6 @@
 <img width="1200" height="675" alt="8351160" src="https://github.com/user-attachments/assets/39e26459-222a-408d-adfe-11b92b2c5255" />
 
-<img width="1380" height="665" alt="d9037d68428485 5b5c90dc15a77" src="https://github.com/user-attachments/assets/98f5f317-13de-42af-b18f-1d685f4d7a05" />
+
 
 
 
@@ -86,6 +86,11 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/czl9707/gh-space-shooter/main/example.gif" alt="Space shooter contribution graph" />
 </p>
+
+<p align="center">
+  <img width="690" height="330" alt="d9037d68428485 5b5c90dc15a77" ailgn="center" src="https://github.com/user-attachments/assets/98f5f317-13de-42af-b18f-1d685f4d7a05" /> 
+</p>
+
 
 
 
